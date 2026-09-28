@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\islam\\fall 2025\\contemporary programming\\m5\\new net8 lab\\exercise\\inventorymaintenance\\inventorymaintenance\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\islam\\fall 2025\\contemporary programming\\m5\\new net8 lab\\exercise\\inventorymaintenance\\inventorymaintenance\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\islam\\fall 2025\\contemporary programming\\m5\\new net8 lab\\exercise\\inventorymaintenance\\inventorymaintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\islam\\fall 2025\\contemporary programming\\m5\\new net8 lab\\exercise\\inventorymaintenance\\inventorymaintenance\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\islam\\fall 2025\\contemporary programming\\m5\\new net8 lab\\exercise\\inventorymaintenance\\inventorymaintenance\\frmnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\frmnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|c:\\islam\\fall 2025\\contemporary programming\\m5\\new net8 lab\\exercise\\inventorymaintenance\\inventorymaintenance\\frminvmaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D534AA-3CBC-4C5A-8BF8-FDCFF31DF0FE}|InventoryMaintenance\\InventoryMaintenance.csproj|solutionrelative:inventorymaintenance\\frminvmaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Supply.cs",
+              "DocumentMoniker": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\Supply.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\Supply.cs",
+              "ToolTip": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\Supply.cs",
+              "RelativeToolTip": "InventoryMaintenance\\Supply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:30:16.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\Validator.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\Validator.cs",
+              "ToolTip": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\Validator.cs",
+              "RelativeToolTip": "InventoryMaintenance\\Validator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:30:06.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\Program.cs",
+              "ToolTip": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\Program.cs",
+              "RelativeToolTip": "InventoryMaintenance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:30:02.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\Plant.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\Plant.cs",
+              "ToolTip": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\Plant.cs",
+              "RelativeToolTip": "InventoryMaintenance\\Plant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:29:57.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNewItem.cs [Design]",
+              "DocumentMoniker": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\frmNewItem.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\frmNewItem.cs",
+              "ToolTip": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\frmNewItem.cs [Design]",
+              "RelativeToolTip": "InventoryMaintenance\\frmNewItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:29:47.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmInvMaint.cs [Design]",
+              "DocumentMoniker": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\frmInvMaint.cs",
+              "RelativeDocumentMoniker": "InventoryMaintenance\\frmInvMaint.cs",
+              "ToolTip": "C:\\Islam\\Fall 2025\\Contemporary Programming\\M5\\New NET8 Lab\\Exercise\\InventoryMaintenance\\InventoryMaintenance\\frmInvMaint.cs [Design]",
+              "RelativeToolTip": "InventoryMaintenance\\frmInvMaint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:29:02.544Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
